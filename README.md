@@ -32,13 +32,19 @@ An intelligent web application that automatically matches resumes to relevant jo
 resume-job-recommender/
 │
 ├── data/
-│   └── jobs.csv
+│ └── jobs.csv
 ├── models/
-│   └── vectorizer.pkl
+│ ├── model.pkl
+│ └── vectorizer.pkl
+├── src/
+│ ├── preprocessing.py
+│ ├── train_model.py
+│ ├── predict.py
+│ ├── utils.py
+│ └── matcher.py
 ├── app.py
-├── preprocess.py
-├── recommender.py
-└── requirements.txt
+├── requirements.txt
+└── run.bat
 ```
 
 ---
