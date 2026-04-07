@@ -54,7 +54,7 @@ resume-job-recommender/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/resume-job-recommender.git
+git clone https://github.com/hassan-ali786/resume-job-recommender.git
 cd resume-job-recommender
 ```
 
@@ -110,11 +110,6 @@ nltk
 
 ---
 
-## Screenshots
-
-Add application screenshots here to improve presentation.
-
----
 
 ## Use Cases
 
@@ -143,7 +138,7 @@ This project is open-source and available under the MIT License.
 
 ## Author
 
-Your Name  
+Hassan Ali 
 Data Science and Machine Learning Enthusiast  
 
 ---
