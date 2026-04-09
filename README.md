@@ -42,6 +42,9 @@ resume-job-recommender/
 │ ├── predict.py
 │ ├── utils.py
 │ └── matcher.py
+├── images/
+│   └── homepage.png
+    └── result.png
 ├── app.py
 ├── requirements.txt
 └── run.bat
