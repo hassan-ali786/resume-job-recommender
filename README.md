@@ -133,6 +133,15 @@ Contributions are welcome. To contribute:
 
 ---
 
+## Future Improvements
+
+- Integration with real job APIs  
+- Support for PDF/DOC resume uploads  
+- Advanced NLP models (BERT, embeddings)  
+- User profile and history tracking
+
+ ---
+
 ## License
 
 This project is open-source and available under the MIT License.
@@ -146,9 +155,8 @@ Data Science and Machine Learning Enthusiast
 
 ---
 
-## Future Improvements
+##  Application Screenshots
 
-- Integration with real job APIs  
-- Support for PDF/DOC resume uploads  
-- Advanced NLP models (BERT, embeddings)  
-- User profile and history tracking  
+![Home](https://raw.githubusercontent.com/hassan-ali786/resume-job-recommender/main/images/homepage.png)
+![Result](https://raw.githubusercontent.com/hassan-ali786/resume-job-recommender/main/images/result.png)
+
