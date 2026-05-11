@@ -151,7 +151,7 @@ This project is open-source and available under the MIT License.
 ## Author
 
 Hassan Ali 
-Data Science and Machine Learning Enthusiast  
+Data Scientist and Machine Learning Enthusiast  
 
 ---
 
