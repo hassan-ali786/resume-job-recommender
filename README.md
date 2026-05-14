@@ -32,7 +32,7 @@ An intelligent web application that automatically matches resumes to relevant jo
 resume-job-recommender/
 │
 ├── data/
-│ └── jobs.csv
+│ └── resumes.csv
 ├── models/
 │ ├── model.pkl
 │ └── vectorizer.pkl
