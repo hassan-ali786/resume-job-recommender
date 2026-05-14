@@ -46,8 +46,7 @@ resume-job-recommender/
 │   └── homepage.png
     └── result.png
 ├── app.py
-├── requirements.txt
-└── run.bat
+└── requirements.txt
 ```
 
 ---
