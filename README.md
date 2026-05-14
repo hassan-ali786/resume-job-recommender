@@ -40,8 +40,7 @@ resume-job-recommender/
 │ ├── preprocessing.py
 │ ├── train_model.py
 │ ├── predict.py
-│ ├── utils.py
-│ └── matcher.py
+│ └── utils.py
 ├── images/
 │   └── homepage.png
     └── result.png
