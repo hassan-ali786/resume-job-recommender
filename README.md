@@ -155,7 +155,7 @@ Contributions are welcome. To contribute:
 ## Author
 
 Hassan Ali 
-Data Scientist and Machine Learning Enthusiast  
+Data Scientist & Machine Learning Enthusiast  
 
 ---
 
