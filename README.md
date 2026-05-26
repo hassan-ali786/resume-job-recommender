@@ -145,23 +145,22 @@ Contributions are welcome. To contribute:
 
  ---
 
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-
 ##  Application Screenshots
 
 ![Home](https://raw.githubusercontent.com/hassan-ali786/resume-job-recommender/main/images/homepage.png)
 ![Result](https://raw.githubusercontent.com/hassan-ali786/resume-job-recommender/main/images/result.png)
 
-
+---
 
 ## Author
 
 Hassan Ali 
 Data Scientist and Machine Learning Enthusiast  
+
+---
+
+## License
+
+This project is open-source and available under the MIT License.
 
 ---
