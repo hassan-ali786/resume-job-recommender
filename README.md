@@ -4,6 +4,11 @@ An intelligent web application that automatically matches resumes to relevant jo
 
 ---
 
+## Live Demo:
+https://resume-job-recommender-ovbmfzmfxzylcedghofmaa.streamlit.app/
+
+---
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
@@ -158,8 +163,5 @@ Data Scientist and Machine Learning Enthusiast
 ![Home](https://raw.githubusercontent.com/hassan-ali786/resume-job-recommender/main/images/homepage.png)
 ![Result](https://raw.githubusercontent.com/hassan-ali786/resume-job-recommender/main/images/result.png)
 
----
-## Live Demo:
-https://resume-job-recommender-ovbmfzmfxzylcedghofmaa.streamlit.app/
 
 
