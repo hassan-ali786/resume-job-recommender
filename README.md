@@ -151,12 +151,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## Author
-
-Hassan Ali 
-Data Scientist and Machine Learning Enthusiast  
-
----
 
 ##  Application Screenshots
 
@@ -165,3 +159,9 @@ Data Scientist and Machine Learning Enthusiast
 
 
 
+## Author
+
+Hassan Ali 
+Data Scientist and Machine Learning Enthusiast  
+
+---
