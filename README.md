@@ -104,19 +104,6 @@ The application will open automatically in your browser.
 
 ---
 
-## Requirements
-
-```
-streamlit
-pandas
-numpy
-scikit-learn
-nltk
-```
-
----
-
-
 ## Use Cases
 
 - Job recommendation systems  
