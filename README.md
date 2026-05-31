@@ -149,7 +149,7 @@ Contributions are welcome. To contribute:
 
 Hassan Ali 
 
-Data Scientist & Machine Learning Engineer
+Data Scientist & ML Engineer
 
 ---
 
