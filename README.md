@@ -5,7 +5,7 @@ An intelligent web application that automatically matches resumes to relevant jo
 ---
 
 ## Live Demo:
-https://resume-job-recommender-ovbmfzmfxzylcedghofmaa.streamlit.app/
+[Click here to view the Live Demo](https://resume-job-recommender-ovbmfzmfxzylcedghofmaa.streamlit.app/)
 
 ---
 
