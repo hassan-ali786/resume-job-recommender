@@ -9,6 +9,12 @@ https://resume-job-recommender-ovbmfzmfxzylcedghofmaa.streamlit.app/
 
 ---
 
+## Video Demo:
+
+https://github.com/user-attachments/assets/7d42b8af-a33f-4a1f-adad-dd182e5b2f58
+
+---
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
