@@ -107,24 +107,30 @@ The application will open automatically in your browser.
 5. Top matching job recommendations are displayed  
 
 ---
-
 ## Machine Learning & NLP
 
 ### Pipeline
 
+```text
 Resume Text
-↓
-Cleaning & Preprocessing
-↓
+      |
+      ↓
+Text Cleaning & Preprocessing
+      |
+      ↓
 TF-IDF Vectorization
-↓
-Cosine Similarity
-↓
+      |
+      ↓
+Cosine Similarity Calculation
+      |
+      ↓
 Job Ranking
-↓
+      |
+      ↓
 Recommendation Output
 
----
+```
+
 
 ## Use Cases
 
