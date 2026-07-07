@@ -1,6 +1,6 @@
 # Resume Job Recommender
 
-An intelligent web application that automatically matches resumes to relevant job postings using Natural Language Processing (NLP) and similarity-based recommendation techniques. Built with Streamlit for an interactive and user-friendly experience.
+An NLP-powered web application that automatically matches resumes with relevant job roles using text similarity and recommendation techniques.
 
 ---
 
