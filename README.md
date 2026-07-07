@@ -104,11 +104,19 @@ The application will open automatically in your browser.
 
 ## Machine Learning & NLP
 
-- Text Vectorization: TF-IDF  
-- Similarity Measure: Cosine Similarity  
-- Libraries:
-  - scikit-learn  
-  - NLTK / basic NLP preprocessing  
+### Pipeline
+
+Resume Text
+↓
+Cleaning & Preprocessing
+↓
+TF-IDF Vectorization
+↓
+Cosine Similarity
+↓
+Job Ranking
+↓
+Recommendation Output
 
 ---
 
