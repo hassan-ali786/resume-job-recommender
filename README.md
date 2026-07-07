@@ -56,7 +56,7 @@ resume-job-recommender/
 │ └── utils.py
 ├── images/
 │   └── homepage.png
-    └── result.png
+│   └── result.png
 ├── app.py
 └── requirements.txt
 ```
