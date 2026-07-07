@@ -23,6 +23,8 @@ https://github.com/user-attachments/assets/7d42b8af-a33f-4a1f-adad-dd182e5b2f58
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-purple?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-blue?logo=numpy)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
+![NLP](https://img.shields.io/badge/NLP-Text_Processing-green)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-Feature_Extraction-blue)
 
 ---
 
