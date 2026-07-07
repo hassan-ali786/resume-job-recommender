@@ -169,9 +169,11 @@ Contributions are welcome. To contribute:
 
 ## Author
 
-Hassan Ali 
+**Hassan Ali**  
+Data Scientist | Machine Learning Engineer
 
-Data Scientist & ML Engineer
+GitHub:
+https://github.com/hassan-ali786
 
 ---
 
