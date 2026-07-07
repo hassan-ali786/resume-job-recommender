@@ -9,7 +9,7 @@ An NLP-powered web application that automatically matches resumes with relevant 
 
 ---
 
-## Video Demo:
+## Video Demo
 
 https://github.com/user-attachments/assets/7d42b8af-a33f-4a1f-adad-dd182e5b2f58
 
