@@ -45,20 +45,26 @@ https://github.com/user-attachments/assets/7d42b8af-a33f-4a1f-adad-dd182e5b2f58
 resume-job-recommender/
 │
 ├── data/
-│ └── resumes.csv
+│   └── resumes.csv                 # Resume and job dataset
+│
 ├── models/
-│ ├── model.pkl
-│ └── vectorizer.pkl
+│   ├── similarity_model.pkl         # Saved recommendation model
+│   └── vectorizer.pkl               # TF-IDF vectorizer
+│
 ├── src/
-│ ├── preprocessing.py
-│ ├── train_model.py
-│ ├── predict.py
-│ └── utils.py
+│   ├── preprocessing.py             # Text cleaning and preprocessing
+│   ├── train_model.py               # Model training pipeline
+│   ├── predict.py                   # Resume matching and predictions
+│   └── utils.py                     # Helper functions
+│
 ├── images/
-│   └── homepage.png
-│   └── result.png
-├── app.py
-└── requirements.txt
+│   ├── homepage.png                 # Application homepage screenshot
+│   └── result.png                   # Recommendation result screenshot
+│
+├── app.py                           # Streamlit application
+├── requirements.txt                 # Project dependencies
+├── README.md                        # Project documentation
+└── .gitignore                       # Ignored files
 ```
 
 ---
