@@ -4,7 +4,7 @@ An NLP-powered web application that automatically matches resumes with relevant 
 
 ---
 
-## Live Demo:
+## Live Demo
 [Click here to view the Live Demo](https://resume-job-recommender-ovbmfzmfxzylcedghofmaa.streamlit.app/)
 
 ---
