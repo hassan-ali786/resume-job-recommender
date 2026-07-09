@@ -172,8 +172,9 @@ Contributions are welcome. To contribute:
 **Hassan Ali**  
 Data Scientist | ML Engineer
 
-GitHub:
-https://github.com/hassan-ali786
+GitHub: https://github.com/hassan-ali786
+
+LinkedIn: https://linkedin.com/in/hassan-ali-datascientist
 
 ---
 
